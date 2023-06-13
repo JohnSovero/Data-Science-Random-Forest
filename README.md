@@ -22,9 +22,9 @@
 
 
 ## Alumnos participantes
-- André Dario Pilco Chiuyare
-- Luis Felipe Poma Astete
-- John Davids Sovero Cubillas
+- André Dario Pilco Chiuyare (*Business Project Sponsor & Data Analytics*) :bar_chart:
+- Luis Felipe Poma Astete (*Data Engineer*) :bookmark_tabs:
+- John Davids Sovero Cubillas (*Data Science*) :chart_with_upwards_trend: 
 
 ## Descripción del conjunto de datos
 El conjunto de datos utilizado en este proyecto contiene información sobre los clientes. A continuación se muestra una descripción de las columnas incluidas:
@@ -43,19 +43,19 @@ El conjunto de datos utilizado en este proyecto contiene información sobre los 
 
 ---
 
-- **ID**: Identificador único para cada cliente.
-- **Marital Status**: Estado civil del cliente.
-- **Gender**: Género del cliente.
-- **Income**: Ingresos del cliente.
-- **Children**: Número de hijos del cliente.
-- **Education**: Nivel educativo del cliente.
-- **Occupation**: Ocupación del cliente.
-- **Home Owner**: Indica si el cliente es propietario de una vivienda (sí/no).
-- **Cars**: Número de autos que posee el cliente.
-- **Commute Distance**: Distancia promedio del trayecto diario al trabajo.
-- **Region**: Región geográfica del cliente.
-- **Age**: Edad del cliente.
-- **Purchased Bike**: Indica si el cliente ha comprado una bicicleta (sí/no).
+- **ID**: Identificador único para cada cliente. :1234:
+- **Marital Status**: Estado civil del cliente. :couple:
+- **Gender**: Género del cliente. :woman: :man:
+- **Income**: Ingresos del cliente. :moneybag:
+- **Children**: Número de hijos del cliente. :baby:
+- **Education**: Nivel educativo del cliente. :pencil2:
+- **Occupation**: Ocupación del cliente. :construction_worker:
+- **Home Owner**: Indica si el cliente es propietario de una vivienda (sí/no). :house:
+- **Cars**: Número de autos que posee el cliente. :car:
+- **Commute Distance**: Distancia promedio del trayecto diario al trabajo. :straight_ruler:
+- **Region**: Región geográfica del cliente. :japan:
+- **Age**: Edad del cliente. :date:
+- **Purchased Bike**: Indica si el cliente ha comprado una bicicleta (sí/no). :bike:
 
 El conjunto de datos completo se encuentra disponible en el archivo adjunto en formato CSV: *[Conjunto de Datos](/data/bike_buyers.csv)*.
 
