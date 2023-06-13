@@ -14,8 +14,6 @@
 
 ## Objetivos de Data Science:
 
-Los objetivos de Data Science en este proyecto son:
-
 1. Representar los objetivos del negocio en términos de metas del proyecto de minería de datos. Esto implica traducir los objetivos comerciales en objetivos específicos que se pueden abordar mediante técnicas de análisis de datos.
 
 2. Identificar la variable a predecir, que en este caso sería la compra de una bicicleta. Esta variable será el objetivo principal del modelo de scoring de venta y se utilizará para clasificar a los clientes en función de su probabilidad de compra.
@@ -43,27 +41,28 @@ El conjunto de datos utilizado en este proyecto contiene información sobre los 
 | 4   | Single         | Male   | 25000  | 1        | High School | Skilled      | No         | 0    | Short            | North  | 30  | No             |
 | 5   | Married        | Female | 65000  | 3        | Graduate    | Professional | Yes        | 2    | Long             | West   | 38  | Yes            |
 
+---
 
-- ID: Identificador único para cada cliente.
-- Marital Status: Estado civil del cliente.
-- Gender: Género del cliente.
-- Income: Ingresos del cliente.
-- Children: Número de hijos del cliente.
-- Education: Nivel educativo del cliente.
-- Occupation: Ocupación del cliente.
-- Home Owner: Indica si el cliente es propietario de una vivienda (sí/no).
-- Cars: Número de autos que posee el cliente.
-- Commute Distance: Distancia promedio del trayecto diario al trabajo.
-- Region: Región geográfica del cliente.
-- Age: Edad del cliente.
-- Purchased Bike: Indica si el cliente ha comprado una bicicleta (sí/no).
+- **ID**: Identificador único para cada cliente.
+- **Marital Status**: Estado civil del cliente.
+- **Gender**: Género del cliente.
+- **Income**: Ingresos del cliente.
+- **Children**: Número de hijos del cliente.
+- **Education**: Nivel educativo del cliente.
+- **Occupation**: Ocupación del cliente.
+- **Home Owner**: Indica si el cliente es propietario de una vivienda (sí/no).
+- **Cars**: Número de autos que posee el cliente.
+- **Commute Distance**: Distancia promedio del trayecto diario al trabajo.
+- **Region**: Región geográfica del cliente.
+- **Age**: Edad del cliente.
+- **Purchased Bike**: Indica si el cliente ha comprado una bicicleta (sí/no).
 
-El conjunto de datos completo se encuentra disponible en el archivo adjunto en formato CSV: [Conjunto de Datos](/data/bike_buyers.csv).
+El conjunto de datos completo se encuentra disponible en el archivo adjunto en formato CSV: *[Conjunto de Datos](/data/bike_buyers.csv)*.
 
 
 ## Conclusiones
 Las conclusiones principales obtenidas a partir de este proyecto son [resumen de las conclusiones más relevantes].
 
 ## Licencia de uso
-Este proyecto se encuentra bajo la licencia MIT. Consulta el archivo [LICENSE](/LICENSE) para obtener más información sobre los términos y condiciones de uso.
+Este proyecto se encuentra bajo la licencia MIT. Consulta el archivo *[LICENSE](/LICENSE)* para obtener más información sobre los términos y condiciones de uso.
 
