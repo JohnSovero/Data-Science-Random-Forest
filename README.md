@@ -61,7 +61,10 @@ El conjunto de datos completo se encuentra disponible en el archivo adjunto en f
 
 
 ## Conclusiones
-Las conclusiones principales obtenidas a partir de este proyecto son [resumen de las conclusiones más relevantes].
+El presente trabajo ha permitido manejar datos reales en un contexto real con requerimientos precisos y demandantes. Además, ha propiciado la construcción de un modelo predictivo funcional que se adapta a las necesidades y objetivos del proyecto. En cuanto a estos, podemos determinar que las características de los clientes que compran una bicicleta son la cantidad de vehículos que posee, la edad y sus ingresos. Por otro lado, se implementó un scoring de venta que permite clasificar a los clientes en “clientes asegurados”, “clientes potenciales” y “clientes no elegibles”. Esta segmentación permitirá maximizar las ganancias al identificar el correcto público objetivo y optimizar los recursos empleados para su efectiva captación. 
+
+
+Los resultados obtenidos no fueron extraídos de manera sencilla, por lo cual la perseverancia y el compromiso de cada uno de los integrantes del equipo fueron imprescindibles en este proceso. Como todo proyecto, es posible mejorar y perfeccionar ciertos aspectos; en nuestro caso, se podrían realizar más tareas de preparación de los datos para mejorar la precisión y exactitud de nuestro modelo.	
 
 ## Licencia de uso
 Este proyecto se encuentra bajo la licencia MIT. Consulta el archivo *[LICENSE](/LICENSE)* para obtener más información sobre los términos y condiciones de uso.
